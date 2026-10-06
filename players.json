@@ -1,0 +1,16 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Player",
+      "Surname": "One",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Forename": "Player",
+      "Surname": "Two",
+      "ImageURL": ""
+    }
+  ]
+}
